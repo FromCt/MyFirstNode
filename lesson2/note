@@ -1,0 +1,8 @@
+用 package.json 管理node项目
+
+npm init (initialize)   快速生成package.json 文件
+
+模块安装
+npm install express --save   (--save  是安装依赖的同时 将依赖写入 package.json)
+
+使用utility 模块调用  md5  加密方法
