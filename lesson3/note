@@ -6,3 +6,4 @@ cheerio(https://github.com/cheeriojs/cheerio ) 大家可以理解成一个 Node.
 
 lesson4
 添加  eventproxy (事件 代理)
+    控制并发  结束后 回调
